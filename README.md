@@ -3,7 +3,7 @@
 MediLink is a full-stack Appointment Booking Application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. It streamlines the process of scheduling and managing medical appointments, offering users, doctors, and admins a secure and user-friendly platform. It provides a robust and comprehensive solution to efficiently manage and improve the healthcare management process. 
 
 The platform caters to three types of users: 
-- **User (Patients)**: Browse available doctors, book appointments, and manage their bookings seamlessly.
+- **User (Patient)**: Browse available doctors, book appointments, and manage their bookings seamlessly.
 - **Doctor**: Manage patient appointments, view schedules, and update availability for consultations.
 - **Admin**: Oversee platform operations, manage users and doctors, and ensure smooth functioning of the system.
 
