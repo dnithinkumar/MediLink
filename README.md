@@ -21,22 +21,34 @@ You can access the live version of the project using the following link:
 
 ## Features  
 
-### **User (Patient)**
-- **Registration and Login**: Secure authentication using **JWT**.
+### **User (Patient) Features**
+
+- **Registration and Login**: User can register and login securely.
+  
 - **Search and Filter Doctors**: Users can find suitable doctors based on specialization, location, and availability.
+  
 - **Book Appointments**: Easy scheduling with preferred doctors.
+  
 - **Profile Management**: Users can maintain and update their personal details for accurate record-keeping.
+  
 - **Payment Flexibility**: Integration with Stripe and Razorpay allows users to make secure online payments, catering to diverse payment preferences.
+  
 - **Appointment History**: Users can view and manage past and upcoming appointments, providing transparency and control.
 
-### **Doctor**
+### **Doctor Features**
+
 - **Manage Appointments**: Doctors can view and handle their schedules efficiently.
+  
 - **Profile Updates**: They can update their professional information and availability, ensuring patients always see accurate data.
+  
 - **Dashboard Analytics**: A personalized dashboard provides insights into their earnings, number of patients, and total appointments, enabling better decision-making and performance tracking.
 
-### **Admin**
+### **Admin Features**
+
 - **Doctor Management**: Admins can onboard new doctors, update their details, or remove them as needed.
+  
 - **Appointment Oversight**: Admins can view and manage all appointments on the platform, resolving any disputes or issues.
+  
 - **System Monitoring**: Admins maintain a bird's-eye view of all users, ensuring the system remains reliable and user-friendly.
 
 
