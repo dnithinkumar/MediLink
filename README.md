@@ -54,18 +54,23 @@ You can access the live version of the project using the following link:
 
 
 
+
 ## Technology Stack 
 
 ### Frontend:
 
 - **React.js**: The user interface is built with React.js, allowing for a fast, responsive, and interactive experience. React’s component-based structure is ideal for organizing the UI and ensuring reusability of components.
+  
 - **State Management**: State is managed using React hooks, ensuring smooth data flow and minimizing unnecessary re-renders.
+  
 - **HTML & TailwindCSS**: For structuring and styling the application. 
 
 ### Backend:
 
 - **Node.js & Express.js**: The backend is built using Express.js, which handles API requests like user registration, appointment booking, doctor management, etc.
+  
 - **Authentication**: JWT tokens are used for securing routes, ensuring that only authorized users (patients, doctors, and admins) can access their respective functionalities.
+  
 - **MongoDB**: MongoDB is used as the database to store user data, doctor profiles, appointment details, and payment information.
 
 
@@ -76,6 +81,7 @@ You can access the live version of the project using the following link:
 ### Security:
 
 - **JWT & Bcrypt**: The system uses bcrypt to hash passwords and JWT for secure, token-based authentication. The app follows best practices for data validation to protect against security vulnerabilities.
+
 
 
 
